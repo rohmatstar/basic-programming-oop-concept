@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "basic-programming-oop-concept/1.0.0": {
+        "runtime": {
+          "basic-programming-oop-concept.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "basic-programming-oop-concept/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
